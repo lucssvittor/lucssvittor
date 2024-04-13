@@ -56,9 +56,11 @@
   <!-- Stats -->
   
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucssvittor&show_icons=true&locale=en&theme=react" alt="lucssvittor" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucssvittor&show_icons=true&locale=en&layout=compact&theme=react" alt="lucssvittor"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=lucssvittor&show_icons=true&locale=en&theme=react" alt="lucssvittor" />
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucssvittor&show_icons=true&locale=en&layout=compact&theme=react" alt="lucssvittor"/>
 </div>
+
+
 <!-- Stats -->
 
 <br>
