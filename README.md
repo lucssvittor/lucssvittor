@@ -2,7 +2,9 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,BE+WELCOME!+:%29;+MY+NAME+IS+LUCAS+VITOR;I'M+20+YEARS+OLD;I+AM+FROM+TERESINA,+PIUAI;I+STUDY+ANALYSIS+AND+SYSTEMS+DEVELOPMENT+AT+UNIFACID;+FOLLOW+ME+:%29)
 <div align="center">  
-<a href="https://www.instagram.com/lucss.vittor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/lucss.vittor/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="width: 120px;">
+</a>
 </div> 
   <br>
   <div align="center">SKILLS<br>
