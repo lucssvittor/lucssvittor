@@ -28,8 +28,21 @@
 </div>
 
   <!-- Sobre Mim -->
- 
-<br>
+  
+  <br>
+
+  <!-- Projetos -->
+  
+<div align="center">
+<a href="https://github.com/lucssvittor/lucssvittor2" target="_blank">
+    <img src="https://img.shields.io/badge/PROJETOS%20-00bfbf" style="height: 50px;">
+</a>
+</div>
+
+<!-- Projetos -->
+
+  <br>
+  <br>
 
   <!-- Habilidades -->
   
