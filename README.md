@@ -1,21 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-  <!-- Intro -->
-  
- <div align="center"> 
-   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,SEJA+BEM+VINDO(A)+:%29;+MEU+NOME+É+LUCAS+VITOR)
- 
- </div>
- 
-  <!-- Intro -->
-  
-<br>
-
   <!-- Sobre Mim -->
 
 <div align="center">
-  <H3> UM POUCO SOBRE MIM</H3>
+  <H3 color: #00bfbf>SOBRE MIM</H3>
 
    💬 - Tenho 21 anos, estou me formando em Analise e Desenvolvimento De Sistemas, na Unifacid. Estou sempre buscando novos desafios e oportunidades para aplicar meus conhecimentos e crescer profissionalmente. Além disso, tenho trabalhado em projetos pessoais e acadêmicos que me proporcionaram experiência prática em desenvolvimento de software. Estou animado para ingressar no mercado de trabalho e contribuir com soluções inovadoras. 
    
@@ -40,7 +28,7 @@
   <img align="center" alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C++" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Postgresql" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="Postgresql" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Postgresql" height="50" width="40"
 </div>
 
   <!-- Habilidades -->
