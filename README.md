@@ -16,11 +16,9 @@
 
 <div align="center">
   <details>
-  <summary><H3>UM POUCO SOBRE MIM</H3></summary>
+  <summary><H3> UM POUCO SOBRE MIM</H3></summary>
 
-   💬 - Tenho 20 anos, estou me formando em Analise e Desenvolvimento De Sistemas, na Unifacid. Estou sempre buscando novos desafios e oportunidades para aplicar meus conhecimentos e crescer profissionalmente. Além disso, tenho trabalhado em projetos pessoais e acadêmicos que me proporcionaram experiência prática em desenvolvimento de software. Estou animado para ingressar no mercado de trabalho e contribuir com soluções inovadoras. 
-
-   ⚡ - Nos meus momentos livres, gosto de praticar esportes, como corrida e musculação, para manter um estilo de vida saudável e equilibrado. Isso me ajuda a relaxar e estimula minha criatividade.
+   💬 - Tenho 21 anos, estou me formando em Analise e Desenvolvimento De Sistemas, na Unifacid. Estou sempre buscando novos desafios e oportunidades para aplicar meus conhecimentos e crescer profissionalmente. Além disso, tenho trabalhado em projetos pessoais e acadêmicos que me proporcionaram experiência prática em desenvolvimento de software. Estou animado para ingressar no mercado de trabalho e contribuir com soluções inovadoras. 
    
 <br> 
 
@@ -37,7 +35,7 @@
   
   <div align="center">
     
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HABILIDADES+👨‍💻)
+<H3> HABILIDADES 👨‍💻</H3>)
 
   <img align="center" alt="Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
