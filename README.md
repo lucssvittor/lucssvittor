@@ -15,20 +15,15 @@
   <!-- Sobre Mim -->
 
 <div align="center">
-  <details>
-  <summary><H3> UM POUCO SOBRE MIM</H3></summary>
+  <H3> UM POUCO SOBRE MIM</H3>
 
    💬 - Tenho 21 anos, estou me formando em Analise e Desenvolvimento De Sistemas, na Unifacid. Estou sempre buscando novos desafios e oportunidades para aplicar meus conhecimentos e crescer profissionalmente. Além disso, tenho trabalhado em projetos pessoais e acadêmicos que me proporcionaram experiência prática em desenvolvimento de software. Estou animado para ingressar no mercado de trabalho e contribuir com soluções inovadoras. 
    
 <br> 
-
-</details>
 </div>
 
   <!-- Sobre Mim -->
   
-
-  <br>
   <br>
 
   <!-- Habilidades -->
