@@ -3,7 +3,7 @@
   <!-- Sobre Mim -->
 
 <div align="center">
-  <H3 color: #00bfbf>SOBRE MIM</H3>
+  <H3 color=00bfbf>SOBRE MIM</H3>
 
    💬 - Tenho 21 anos, estou me formando em Analise e Desenvolvimento De Sistemas, na Unifacid. Estou sempre buscando novos desafios e oportunidades para aplicar meus conhecimentos e crescer profissionalmente. Além disso, tenho trabalhado em projetos pessoais e acadêmicos que me proporcionaram experiência prática em desenvolvimento de software. Estou animado para ingressar no mercado de trabalho e contribuir com soluções inovadoras. 
    
