@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <br>
-<h1>BEM VINDOS :)</h1>
+<h1 align="center">BEM VINDOS :)</h1>
 <br>
 
 <div align="center">
