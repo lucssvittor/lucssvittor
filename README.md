@@ -1,7 +1,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<br>
 <h1 align="center">BEM VINDOS :)</h1>
 <br>
 
@@ -11,7 +10,6 @@
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucssvittor&show_icons=true&locale=en&layout=compact&theme=react" alt="lucssvittor"/>
 </div>
 
-<br><br>
-
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
